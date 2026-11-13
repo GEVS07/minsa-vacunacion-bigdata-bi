@@ -1,0 +1,10 @@
+run_id,escenario,configuracion,escala,repeticion,latencia_s,throughput_filas_s,pico_ram_gb,input_gb,paridad
+RUN-01,EXP-01,SQL_Server_Desnormalizado_Q1,83.9M,R1,28.45,2949574,3.98,14.24,100.00%
+RUN-04,EXP-01,SQL_Server_Estrella_BI_Q1,83.9M,R1,0.41,204671712,0.84,0.04,100.00%
+RUN-08,EXP-01,SQL_Server_Estrella_BI_Q2,83.9M,R3,0.68,123405002,0.92,0.06,100.00%
+RUN-13,EXP-01,SQL_Server_Estrella_BI_Q3,83.9M,R5,1.19,70517144,1.05,0.09,100.00%
+RUN-16,EXP-02A,PySpark_ETL_8Cores_S1,10.0M,R1,46.2,216450,4.12,1.66,100.00%
+RUN-21,EXP-02A,PySpark_ETL_8Cores_S2,40.0M,R1,179.8,222469,6.85,6.65,100.00%
+RUN-26,EXP-02A,PySpark_ETL_8Cores_S3,85.4M,R1,382.4,223378,9.42,14.24,100.00%
+RUN-41,EXP-03,RDBMS_Tradicional_ETL_S3,85.4M,R1,2312.6,36936,3.99,52.8,100.00%
+RUN-45,EXP-03,Arquitectura_Integrada_Spark_BI_S3,85.4M,R5,384.9,221928,9.48,14.24,100.00%

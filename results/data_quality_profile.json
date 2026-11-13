@@ -1,0 +1,9 @@
+{
+    "raw_rows": 85420118,
+    "silver_valid_rows": 83915402,
+    "gold_aggregated_rows": 4812390,
+    "dropped_invalid_or_dup": 1504716,
+    "elapsed_seconds": 383.64,
+    "throughput_rows_per_sec": 222657.02,
+    "reconciliation_parity_pct": 100.0
+}
